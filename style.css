@@ -38,9 +38,9 @@
 	text-align: left;
 	vertical-align: middle;
 	width: 300px;
-  	display: table-cell;
-  	height: 50px;
-  	color: #63585E;
+  display: table-cell;
+  height: 50px;
+  color: #63585E;
 }
 
 .EmptyDiv{
@@ -61,6 +61,7 @@ button {
   border: 2px solid #63585E;
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 500;
+  color: #63585E;
   background: transparent;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -132,4 +133,20 @@ button {
 .SecondPage{
   height: 100vh;
   background-color: #63585E;
+}
+.ThirdPage{
+  height: 100vh;
+  background-color: #A8C69F;
+}
+
+.Footer{
+  height: 30vh;
+  background-color: #130303;
+  
+}
+
+.Text3{
+  color: white;
+  font-family: 'Unbounded', cursive;
+  padding: 10px 25px;
 }
