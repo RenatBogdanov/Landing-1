@@ -128,3 +128,8 @@ button {
 .btn-3 span:hover:after {
   width: 100%;
 }
+
+.SecondPage{
+  height: 100vh;
+  background-color: #63585E;
+}
